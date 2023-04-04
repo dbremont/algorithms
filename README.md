@@ -22,8 +22,6 @@ Collection of algorithms.
 
 [Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2021/home)
 
-[What Is an Algorithm? / What Is Computation?](https://cse.buffalo.edu/~rapaport/510/whatisanalg.html)
-
 [The knapsack problem: A survey](https://onlinelibrary.wiley.com/doi/epdf/10.1002/nav.3800220110)
 
 [CS 5234 - Algorithms at Scale](https://www.comp.nus.edu.sg/~gilbert/CS5234/)
