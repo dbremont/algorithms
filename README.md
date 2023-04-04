@@ -12,12 +12,6 @@ Collection of algorithms.
 
 [Design and Analysis of Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/)
 
-[Algorithms and Data Structures for External Memory](http://www.ittc.ku.edu/~jsv/Papers/Vit.IO_book.pdf)
-
-[A framework for the greedy algorithm](https://people.clas.ufl.edu/avince/files/Greedy.pdf)
-
-[Towards a Definition of an Algorithm](https://arxiv.org/pdf/math/0602053.pdf)
-
 [CS 554 / CSE 512: Parallel Numerical Algorithms](https://solomonik.cs.illinois.edu/teaching/cs554/index.html)
 
 [Applications of Parallel Computers](https://sites.google.com/lbl.gov/cs267-spr2021/home)
