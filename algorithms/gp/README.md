@@ -1,4 +1,6 @@
-### Genetic Algorithms
+# Genetic Algorithms
+
+> ...
 
 Here’s a list of simple problems that can be effectively solved using Genetic Algorithms (GAs):
 
