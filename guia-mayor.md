@@ -5,4 +5,5 @@
 Reglas:
 
 1. Vincular los problemas de prácticas con 'Bremontix - Bremontix Sapientia et Usus'.
-2. ...
+2. Agregar `README.md` a cada grupo de problemas.
+3. Agregar enlaces a proyectos.

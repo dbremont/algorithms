@@ -18,3 +18,7 @@ Practice:
 - Implement load balancing algorithms for even distribution of traffic.
 - Explore authentication and authorization mechanisms for distributed systems.
 - Explore Delivery Guarantee Semantics
+
+## References
+
+- [Distributed Computing](https://en.wikipedia.org/wiki/Distributed_computing)

@@ -1,4 +1,4 @@
-# Database Algorithms & Practice
+# Database System Algorithms & Practice
 
 > Databases and system design are foundational areas in computer science and software engineering. They play a critical role in building scalable, efficient, and reliable systems that can handle real-world demands. Mastering these areas requires a deep understanding of algorithms, data modeling, and architectural principles, combined with practical problem-solving skills.
 

@@ -1,6 +1,8 @@
-# Genetic Algorithms
+# Evolutionary Computation
 
 > ...
+
+## Problems
 
 Here’s a list of simple problems that can be effectively solved using Genetic Algorithms (GAs):
 
@@ -18,3 +20,8 @@ Here’s a list of simple problems that can be effectively solved using Genetic 
 | **Boolean Satisfiability (SAT)** | Find an assignment to boolean variables that satisfies a given logical formula. | Binary Representation, Crossover, Mutation |
 | **Scheduling Problems** | Allocate resources or tasks over time to optimize specific criteria (e.g., job scheduling). | Permutation/Real-Valued Representation, Crossover, Mutation |
 | **Bitwise Pattern Matching** | Find a pattern of bits within a larger binary sequence. | Binary Representation, Mutation, Crossover |
+
+## References
+
+- [Evolutionary computation](https://en.wikipedia.org/wiki/Evolutionary_computation)
+- ...
