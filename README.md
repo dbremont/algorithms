@@ -24,6 +24,7 @@
 - **LM (Language Modelling):** Development of models to predict, generate, and understand text based on linguistic patterns.  
 - **ML (Machine Learning):** Building models that learn patterns from data for prediction, classification, and analysis.  
 - **SM (Stochastic Models):** Models and simulations incorporating randomness for understanding and predicting uncertain systems.
+- **DS (Data Systems):** ...
 - Next
   - **CP (Computational Physics):** Applying computational methods to solve and analyze physical systems and phenomena.  
   - **CB (Computational Biology):** Using algorithms and models to understand biological systems and analyze biological data.  
