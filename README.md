@@ -30,9 +30,16 @@
   - **CC (Computational Chemistry):** Leveraging computational techniques to study chemical properties, reactions, and molecular structures.  
   - **CMS (Computational Materials Science):** Employing simulations and models to explore and predict material properties and behavior.  
   - **CBA (Computational Business Analytics):** Utilizing computational tools to analyze business data and inform decision-making.  
-  - **Robotics:** Designing, building, and programming robots to perform tasks autonomously or semi-autonomously.  
-  - **Food Production:** Applying technology and processes to grow, harvest, and manage food resources efficiently and sustainably.  
-  - **Food Processing:** Using techniques to transform raw ingredients into consumable food products while maintaining safety and quality.  
+  - **Robotics:** Designing, building, and programming robots to perform tasks autonomously or semi-autonomously.
+
+## Proclamatio Oeconomica
+
+> Technologia et innovatio adhibendo, productio ciborum amplificanda, sumptus minuendi, et qualitas augenda.
+> Negotia et homines adiuvando admethodos discendi computacionales et technologias digitales ad productivitatem augendam
+
+- **Food Production:** Applying technology and processes to grow, harvest, and manage food resources efficiently and sustainably.  
+- **Food Processing:** Using techniques to transform raw ingredients into consumable food products while maintaining safety and quality.
+- **Retail**: Adapting practices and methods for the sale of food in the market.
 
 ## Referencias
 
