@@ -15,7 +15,7 @@
 
 ## Guide
 
-- **Algorithms:** Implementation and analysis of fundamental and advanced algorithms across various domains.  
+- **CA (Classical Algorithms):** Implementation and analysis of fundamental and advanced algorithms across various domains.  
 - **CL (Computational Linguistics):** Techniques and models for analyzing, processing, and understanding human language computationally.  
 - **CM (Causal Models):** Methods for modeling and analyzing cause-effect relationships in systems.  
 - **CNS (Computational Network Science):** Study of complex networks using computational techniques to analyze their structure and dynamics.  
