@@ -24,6 +24,15 @@
 - **LM (Language Modelling):** Development of models to predict, generate, and understand text based on linguistic patterns.  
 - **ML (Machine Learning):** Building models that learn patterns from data for prediction, classification, and analysis.  
 - **SM (Stochastic Models):** Models and simulations incorporating randomness for understanding and predicting uncertain systems.
+- Next
+  - **CP (Computational Physics):** Applying computational methods to solve and analyze physical systems and phenomena.  
+  - **CB (Computational Biology):** Using algorithms and models to understand biological systems and analyze biological data.  
+  - **CC (Computational Chemistry):** Leveraging computational techniques to study chemical properties, reactions, and molecular structures.  
+  - **CMS (Computational Materials Science):** Employing simulations and models to explore and predict material properties and behavior.  
+  - **CBA (Computational Business Analytics):** Utilizing computational tools to analyze business data and inform decision-making.  
+  - **Robotics:** Designing, building, and programming robots to perform tasks autonomously or semi-autonomously.  
+  - **Food Production:** Applying technology and processes to grow, harvest, and manage food resources efficiently and sustainably.  
+  - **Food Processing:** Using techniques to transform raw ingredients into consumable food products while maintaining safety and quality.  
 
 ## Referencias
 
