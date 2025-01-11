@@ -35,6 +35,7 @@
 ## Proclamatio Oeconomica
 
 > Technologia et innovatio adhibendo, productio ciborum amplificanda, sumptus minuendi, et qualitas augenda.
+
 > Negotia et homines adiuvando admethodos discendi computacionales et technologias digitales ad productivitatem augendam
 
 - **Food Production:** Applying technology and processes to grow, harvest, and manage food resources efficiently and sustainably.  
