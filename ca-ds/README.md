@@ -48,9 +48,44 @@
 | **LRU (Least Recently Used)**          | Caching (OS)                 | Algorithm used to manage cache by evicting the least recently used item.            |
 | **Semaphore**                          | Concurrency                  | Synchronization mechanism used to control access to a shared resource in concurrent programming. |
 | **Fork-Join Model**                    | Concurrency                  | Used for parallel execution, splitting tasks into smaller sub-tasks that can be executed concurrently. |
-| **Two-Phase Commit Protocol**          | Distributed Computation       | Ensures atomicity of transactions in distributed systems by having a commit and abort phase. |
+| **Two-Phase Commit Protocol**          | Distributed Computation      | Ensures atomicity of transactions in distributed systems by having a commit and abort phase. |
 | **Graph Coloring**                     | Graph Theory                 | Algorithm used to assign colors to vertices in a graph, ensuring adjacent vertices have different colors. |
 | **Kruskal’s Algorithm**                | Graph Theory                 | Finds the minimum spanning tree for a weighted graph by adding edges in order of increasing weight. |
+
+## Data Structures
+
+> Study and application of essential data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables, focusing on their properties, operations, and use cases in solving computational problems.
+
+| **Data Structure**       | **Description**                                                                 | **Key Use Cases**                                                                 |
+|---------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| **Set**                   | A collection of unique elements.                                               | Removing duplicates, membership testing, and mathematical operations.            |
+| **Trie**                  | A tree-like structure for storing strings, where each node represents a character. | Autocomplete, spell checking, and IP routing.                                   |
+| **Heap**                  | A specialized tree-based structure where the parent node is ordered relative to its children. | Priority queues, scheduling, and algorithms like Dijkstra's.                    |
+| **Tree**                  | A hierarchical structure with a root node and child nodes.                     | Representing hierarchical data (e.g., file systems, organization charts).         |
+| **Stack**                 | A Last-In-First-Out (LIFO) data structure.                                     | Function call management, undo/redo operations, parsing expressions.             |
+| **Queue**                 | A First-In-First-Out (FIFO) data structure.                                    | Task scheduling, buffering, breadth-first search (BFS).                          |
+| **Graph**                 | A collection of nodes (vertices) connected by edges.                           | Modeling networks (e.g., social networks, maps, dependencies).                   |
+| **Array**                 | A fixed-size collection of elements, stored contiguously in memory.            | Storing and accessing sequential data (e.g., lists, matrices).                   |
+| **Map/Dictionary**        | A collection of key-value pairs, where keys are unique.                        | Storing and retrieving data by key (e.g., configurations, caches).               |
+| **Skip List**             | A probabilistic alternative to balanced trees with layered linked lists.        | Implementing ordered sets and maps with simpler balancing than trees.            |
+| **AVL Tree**              | A self-balancing binary search tree with strict height balancing.               | Applications requiring frequent lookups, insertions, and deletions.              |
+| **B-Tree**                | A self-balancing tree structure optimized for disk access.                      | Database indexing (e.g., SQL databases, file systems).                           |
+| **Octree**                | A tree structure for partitioning 3D space into regions.                        | 3D graphics, volumetric data, and physics simulations.                           |
+| **R-Tree**                | A tree structure for spatial indexing of multi-dimensional data.                | Geographic information systems (GIS), spatial databases, and nearest-neighbor search. |
+| **Quadtree**              | A tree structure for partitioning 2D space into regions.                        | Image processing, collision detection, and game development.                     |
+| **Suffix Tree**           | A compressed trie containing all suffixes of a string.                          | Substring search, longest common substring, and DNA sequence analysis.           |
+| **Suffix Array**          | An array of all suffixes of a string, sorted lexicographically.                 | String matching, bioinformatics, and text compression.                           |
+| **Bloom Filter**          | A probabilistic data structure for testing set membership.                     | Spell checkers, network routers, and database query optimization.                |
+| **Linked List**           | A collection of nodes, each containing data and a reference to the next node.  | Dynamic memory allocation, implementing stacks, queues, and adjacency lists.     |
+| **Hash Table**            | A collection of key-value pairs, using a hash function for fast lookups.       | Implementing dictionaries, caches, and database indexing.                        |
+| **Fenwick Tree (BIT)**    | A tree-like structure for efficient prefix sum calculations.                    | Dynamic frequency counting, range sum queries, and financial applications.       |
+| **Red-Black Tree**        | A self-balancing binary search tree with colored nodes.                         | Implementing ordered maps (e.g., C++ `std::map`, Java `TreeMap`).                |
+| **Circular Buffer**       | A fixed-size buffer that wraps around when full.                                | Real-time data streaming, audio processing, and producer-consumer problems.      |
+| **Segment Tree**          | A tree structure for efficient range queries and updates.                       | Range minimum/maximum queries, interval scheduling, and computational geometry.  |
+| **Binary Search Tree (BST)** | A tree where each node has at most two children, with left < root < right.   | Efficient searching, sorting, and range queries.                                 |
+| **Disjoint Set (Union-Find)** | A structure for managing partitions of a set with efficient union and find operations. | Kruskal’s algorithm, image processing, and network connectivity.                |
+| **Trie with Suffix Compression** | A compressed trie for efficient storage of strings.                          | Autocomplete, spell checking, and IP routing with reduced memory usage.          |
+| **Persistent Data Structures** | Immutable data structures that preserve previous versions.                   | Functional programming, version control, and undo/redo systems.                  |
 
 ## References
 
