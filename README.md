@@ -16,6 +16,7 @@
 ## Guide
 
 - **CA (Classical Algorithms):** Implementation and analysis of fundamental and advanced algorithms across various domains.  
+  - **CDS (Classical Data Structures):** Study and application of essential data structures such as arrays, linked lists, stacks, queues, trees, graphs, and hash tables, focusing on their properties, operations, and use cases in solving computational problems.
 - **CL (Computational Linguistics):** Techniques and models for analyzing, processing, and understanding human language computationally.  
 - **CM (Causal Models):** Methods for modeling and analyzing cause-effect relationships in systems.  
 - **CNS (Computational Network Science):** Study of complex networks using computational techniques to analyze their structure and dynamics.  
@@ -37,7 +38,7 @@
 
 > Technologia et innovatio adhibendo, productio ciborum amplificanda, sumptus minuendi, et qualitas augenda.
 
-> Negotia et homines adiuvando admethodos discendi computacionales et technologias digitales ad productivitatem augendam
+> Negotia et homines adiuvando admethodos discendi computacionales et technologias digitales ad productivitatem augendam.
 
 - **Food Production:** Applying technology and processes to grow, harvest, and manage food resources efficiently and sustainably.  
 - **Food Processing:** Using techniques to transform raw ingredients into consumable food products while maintaining safety and quality.
