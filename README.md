@@ -23,7 +23,8 @@
 - **CSM (Computational Social Metrics):** Quantitative analysis of social behaviors, metrics, and interactions using computational methods.  
 - **IR (Information Retrieval):** Techniques for efficiently retrieving and ranking relevant information from large datasets.  
 - **LM (Language Modelling):** Development of models to predict, generate, and understand text based on linguistic patterns.  
-- **ML (Machine Learning):** Building models that learn patterns from data for prediction, classification, and analysis.  
+- **ML (Machine Learning):** Building models that learn patterns from data for prediction, classification, and analysis.
+- **RL (Reinforcement Learning)**: Training agents to make sequential decisions by rewarding desired behaviors and penalizing undesired ones, often used in robotics, gaming, and optimization tasks.
 - **SM (Stochastic Models):** Models and simulations incorporating randomness for understanding and predicting uncertain systems.
 - **DS (Data Systems):** ...
 - Next
