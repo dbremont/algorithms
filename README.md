@@ -27,6 +27,7 @@
 - **RL (Reinforcement Learning)**: Training agents to make sequential decisions by rewarding desired behaviors and penalizing undesired ones, often used in robotics, gaming, and optimization tasks.
 - **SM (Stochastic Models):** Models and simulations incorporating randomness for understanding and predicting uncertain systems.
 - **DS (Data Systems):** ...
+- **CS (Complex Systems)**: ...
 - Next
   - **CP (Computational Physics):** Applying computational methods to solve and analyze physical systems and phenomena.  
   - **CB (Computational Biology):** Using algorithms and models to understand biological systems and analyze biological data.  
