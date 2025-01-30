@@ -20,3 +20,5 @@
 - [Outline of machine learning](https://en.wikipedia.org/wiki/Outline_of_machine_learning)
 
 - [Outline of logic](https://en.wikipedia.org/wiki/Outline_of_logic)
+
+- [ai-notebooks](https://github.com/geohot/ai-notebooks/tree/master)
