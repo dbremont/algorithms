@@ -1,4 +1,6 @@
-# Reinforcement Learning
+# Dynamic Intelligence
+
+> ...
 
 ## References
 

@@ -1,3 +1,3 @@
-# Computational Social Science
+# Computational Social Systems
 
 > aka. Computatioanl Sociometrics.

@@ -1,4 +1,4 @@
-# Modelling Templates
+# Observational Models
 
 - Statistics
 - Computational Tools
