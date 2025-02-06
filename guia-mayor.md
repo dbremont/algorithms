@@ -1,58 +1,58 @@
-# Guía Mayor
+# 📚 **Guía Mayor**
 
-> Guía para el uso adecuado del repositorio de problemas de práctica y soluciones `Algorithms`.
+> Guía para el uso adecuado del repositorio de problemas de práctica y soluciones `Algorithms`. 🔧
 
-Reglas:
+## 📝 Reglas
 
-1. Vincular los problemas de prácticas con 'Bremontix - Bremontix Sapientia et Usus'.
-2. Agregar `README.md` a cada grupo de problemas.
-3. Agregar enlaces a proyectos.
-4. No entradas de conocimiento.
+1. Vincular los problemas de prácticas con 'Bremontix - Bremontix Sapientia et Usus' 🧠💡.
+2. Agregar `README.md` a cada grupo de problemas 📄.
+3. Agregar enlaces a proyectos 🔗.
+4. No entradas de conocimiento 🚫.
 
-## Guide
+## 🗺️ **Guide**
 
 **CM (Computational Mathematics)**: ...
 
-- **CNS (Computational Network Science):** Study of complex networks using computational techniques to analyze their structure and dynamics.
+- **CNS (Computational Network Science):** Estudio de redes complejas usando técnicas computacionales para analizar su estructura y dinámica 🌐.
 
 **CS (Complexity Science)**: ...
 
-**CSF (Computer Science Fundamentals):** Implementation and analysis of fundamental and advanced algorithms across various domains.
+**CSF (Computer Science Fundamentals):** Implementación y análisis de algoritmos fundamentales y avanzados en diversos dominios 💻.
 
-**CSM (Computational Social Systems):** Quantitative analysis of social behaviors, metrics, and interactions using computational methods.
+**CSM (Computational Social Systems):** Análisis cuantitativo de comportamientos sociales, métricas e interacciones usando métodos computacionales 👥.
 
-- **CBA (Computational Business Analytics):** Utilizing computational tools to analyze business data and inform decision-making.  
+- **CBA (Computational Business Analytics):** Uso de herramientas computacionales para analizar datos de negocios e informar la toma de decisiones 📊.
 
 **Dynamical Intelligence**: ...
 
 **DS (Data Systems):** ...
 
-- **IR (Information Retrieval):** Techniques for efficiently retrieving and ranking relevant information from large datasets.
+- **IR (Information Retrieval):** Técnicas para recuperar y clasificar eficientemente información relevante de grandes conjuntos de datos 📑.
 
-**MF (Maestro Fisicia):** Applying computational methods to solve and analyze physical systems and phenomena.
+**MF (Maestro Fisicia):** Aplicación de métodos computacionales para resolver y analizar sistemas y fenómenos físicos ⚛️.
 
-**MQ (Maestro Quimica):** Leveraging computational techniques to study chemical properties, reactions, and molecular structures.
+**MQ (Maestro Quimica):** Uso de técnicas computacionales para estudiar propiedades químicas, reacciones y estructuras moleculares 🧪.
 
-**NC (Natural Computation):** **Natural Computation (NC)** refers to computational paradigms inspired by natural processes, such as evolution, biological systems, and physical phenomena, to solve complex problems using techniques that mimic the behavior of natural systems.
+**NC (Natural Computation):** **Natural Computation (NC)** se refiere a paradigmas computacionales inspirados en procesos naturales, como la evolución, sistemas biológicos y fenómenos físicos, para resolver problemas complejos utilizando técnicas que imitan el comportamiento de los sistemas naturales. 🌱💻
 
-- **Evolutionary Computing**: Includes algorithms like Genetic Algorithms (GAs), Genetic Programming (GP), and Evolution Strategies (ES) that mimic the process of natural evolution through selection, mutation, and reproduction.
+- **Evolutionary Computing**: Incluye algoritmos como Algoritmos Genéticos (GAs), Programación Genética (GP) y Estrategias Evolutivas (ES) que imitan el proceso de evolución natural a través de selección, mutación y reproducción 🧬.
 
-- **Cellular Automata (CA)**:  A model of computation based on a grid of cells, each of which can be in a finite number of states, with rules for updating states based on neighboring cells' conditions.
+- **Cellular Automata (CA)**: Un modelo de computación basado en una cuadrícula de celdas, cada una de las cuales puede estar en un número finito de estados, con reglas para actualizar los estados según las condiciones de las celdas vecinas 🟩.
 
-- **Artificial Immune Systems (AIS)**: Models the human immune system to create algorithms that detect anomalies or patterns in data, often used for intrusion detection or fault detection.
+- **Artificial Immune Systems (AIS)**: Modela el sistema inmune humano para crear algoritmos que detecten anomalías o patrones en datos, utilizados comúnmente para detección de intrusiones o fallos 🦠.
 
-- **Ant Colony Optimization (ACO)**: A class of optimization algorithms inspired by the foraging behavior of ants, where artificial "ants" explore and find solutions to optimization problems through pheromone updating.
+- **Ant Colony Optimization (ACO)**: Una clase de algoritmos de optimización inspirados en el comportamiento de forrajeo de las hormigas, donde las "hormigas" artificiales exploran y encuentran soluciones a problemas de optimización mediante la actualización de feromonas 🐜.
 
-- **Biomolecular Computing**: Uses molecules and biological systems (such as proteins or RNA) to perform computational tasks in a manner similar to traditional computers.
+- **Biomolecular Computing**: Usa moléculas y sistemas biológicos (como proteínas o ARN) para realizar tareas computacionales de manera similar a las computadoras tradicionales 🧬.
 
-- **L-system (Lindenmayer Systems)**: A parallel rewriting system and a type of formal grammar used to model the growth processes of plants and other biological organisms.
+- **L-system (Lindenmayer Systems)**: Un sistema de reescritura paralela y un tipo de gramática formal utilizado para modelar los procesos de crecimiento de plantas y otros organismos biológicos 🌿.
 
-- **Membrane Computing (P Systems)**: A computational model inspired by the structure and functioning of living cells, where computation occurs within hierarchical membranes and is based on the processing of multisets of objects.
+- **Membrane Computing (P Systems)**: Un modelo computacional inspirado en la estructura y funcionamiento de las células vivas, donde la computación ocurre dentro de membranas jerárquicas y se basa en el procesamiento de multiconjuntos de objetos 🔬.
 
 **OM (Observational Models)**: ...
 
-- **CM (Causal Models):** Methods for modeling and analyzing cause-effect relationships in systems.
+- **CM (Causal Models):** Métodos para modelar y analizar relaciones causa-efecto en sistemas 🧩.
 
-- **ML (Machine Learning):** Building models that learn patterns from data for prediction, classification, and analysis.
+- **ML (Machine Learning):** Creación de modelos que aprenden patrones a partir de datos para predicción, clasificación y análisis 🤖.
 
-- **SM (Stochastic Models):** Models and simulations incorporating randomness for understanding and predicting uncertain systems.
+- **SM (Stochastic Models):** Modelos y simulaciones que incorporan aleatoriedad para comprender y predecir sistemas inciertos 🎲.
