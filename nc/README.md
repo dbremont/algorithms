@@ -1,6 +1,6 @@
-# Evolutionary Computation
+# Natural Computing
 
-> ...
+> **Natural Computation (NC)** se refiere a paradigmas computacionales inspirados en procesos naturales, como la evolución, sistemas biológicos y fenómenos físicos, para resolver problemas complejos utilizando técnicas que imitan el comportamiento de los sistemas naturales. 🌱💻
 
 ## Problems
 
