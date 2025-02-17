@@ -51,6 +51,18 @@
 | **Two-Phase Commit Protocol**          | Distributed Computation      | Ensures atomicity of transactions in distributed systems by having a commit and abort phase. |
 | **Graph Coloring**                     | Graph Theory                 | Algorithm used to assign colors to vertices in a graph, ensuring adjacent vertices have different colors. |
 | **Kruskal’s Algorithm**                | Graph Theory                 | Finds the minimum spanning tree for a weighted graph by adding edges in order of increasing weight. |
+| **Geohash**                            |                              | Used to build location-based services. |
+| **HyperLogLog**                        |                              | Counting unique queries performed by users in a search. |
+| **Consistent Hashing**                 |                              | Used for efficient data distribution between the cluster’s nodes.|
+| **Merkle Tree**                        |                              | Used to detect inconsistencies between data replicas across multiple nodes.|
+| **Raft Algorithm**                         |                              | Used to achieve consensus on log replication. |
+| **Lossy Count**                            |                              | Network traffic analysis, web analytics, and identifying heavy hitters.|
+| **QuadTree**                               |                              | Used to build location-based services.|
+| **Operational Transformation**             |                              | Used to support collaborative editing systems.|
+| **Leaky Bucket**                           |                              | Used for rate limiting |
+| **Rsync**                                  |                              | Synchronizing files and directories between two different systems.|
+| **Ray Casting**                            |                              | Used for geospatial analysis, collision detection in video games, and computer graphics.|
+
 
 ## Data Structures
 
