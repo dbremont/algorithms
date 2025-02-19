@@ -19,19 +19,11 @@
 
 **CSF (Computer Science Fundamentals):** Implementación y análisis de algoritmos fundamentales y avanzados en diversos dominios 💻.
 
-**CSM (Computational Social Systems):** Análisis cuantitativo de comportamientos sociales, métricas e interacciones usando métodos computacionales 👥.
-
-- **CBA (Computational Business Analytics):** Uso de herramientas computacionales para analizar datos de negocios e informar la toma de decisiones 📊.
-
 **Dynamical Intelligence**: ...
 
 **DS (Data Systems):** ...
 
 - **IR (Information Retrieval):** Técnicas para recuperar y clasificar eficientemente información relevante de grandes conjuntos de datos 📑.
-
-**MF (Maestro Fisicia):** Aplicación de métodos computacionales para resolver y analizar sistemas y fenómenos físicos ⚛️.
-
-**MQ (Maestro Quimica):** Uso de técnicas computacionales para estudiar propiedades químicas, reacciones y estructuras moleculares 🧪.
 
 **NC (Natural Computation):** **Natural Computation (NC)** se refiere a paradigmas computacionales inspirados en procesos naturales, como la evolución, sistemas biológicos y fenómenos físicos, para resolver problemas complejos utilizando técnicas que imitan el comportamiento de los sistemas naturales. 🌱💻
 
