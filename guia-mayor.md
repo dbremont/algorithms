@@ -41,7 +41,7 @@
 
 - **Membrane Computing (P Systems)**: Un modelo computacional inspirado en la estructura y funcionamiento de las células vivas, donde la computación ocurre dentro de membranas jerárquicas y se basa en el procesamiento de multiconjuntos de objetos 🔬.
 
-**OM (Observational Models)**: ...
+**OM (Observational Models)**: Caja de herramientas para resolver diversos problemas de optimización.
 
 - **CM (Causal Models):** Métodos para modelar y analizar relaciones causa-efecto en sistemas 🧩.
 
