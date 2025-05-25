@@ -1,4 +1,4 @@
-# Classical Algorithms
+# Computer Science Fundamentals
 
 > The computational units behind computational systems.
 
