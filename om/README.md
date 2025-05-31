@@ -22,3 +22,5 @@
 - [Outline of logic](https://en.wikipedia.org/wiki/Outline_of_logic)
 
 - [ai-notebooks](https://github.com/geohot/ai-notebooks/tree/master)
+
+- [CS231n: Deep Learning for Computer Vision](https://cs231n.stanford.edu/assignments.html)
