@@ -1,6 +1,10 @@
-# Computatonal Mathematics
+# Computational Mathematics
 
 > ...
+
+## Guide
+
+- **FD**: Functional Decomposition
 
 ## References
 
