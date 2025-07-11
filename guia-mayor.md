@@ -76,3 +76,8 @@
 - **Metaheuristics 🧠**: High-level strategies for exploring solution spaces.  
 
 **SP (Signal Processing)**: Signal processing is the analysis, manipulation, and transformation of signals, such as sound, images, or data, to extract meaningful information or improve their quality.
+
+**nat**: Modelling Nature.
+    - Physics
+    - Chemistry
+    - Biology
