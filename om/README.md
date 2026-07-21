@@ -9,6 +9,14 @@
 - Modelling Principles
 - ...
 
+## Guide
+
+| Abbrev. | Model             | Description                                                                                                      |
+| ------- | ----------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **CM**  | Causal Models     | Models for representing and reasoning about cause-effect relationships. 🧩                                       |
+| **ML**  | Machine Learning  | Models that learn patterns from data for prediction, classification, clustering, and representation learning. 🤖 |
+| **SM**  | Stochastic Models | Probabilistic models incorporating randomness and uncertainty. 🎲                                                |
+
 ## References
 
 - [Outline of statistics](https://en.wikipedia.org/wiki/Outline_of_statistics)

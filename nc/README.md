@@ -2,6 +2,18 @@
 
 > **Natural Computation (NC)** se refiere a paradigmas computacionales inspirados en procesos naturales, como la evolución, sistemas biológicos y fenómenos físicos, para resolver problemas complejos utilizando técnicas que imitan el comportamiento de los sistemas naturales. 🌱💻
 
+## Guide
+
+| Technique                              | Description                                                                                                               |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Evolutionary Computing** 🧬          | Optimization algorithms inspired by biological evolution (Genetic Algorithms, Genetic Programming, Evolution Strategies). |
+| **Cellular Automata (CA)** 🟩          | Grid-based computational models where local interaction rules generate global behavior.                                   |
+| **Artificial Immune Systems (AIS)** 🦠 | Algorithms inspired by the biological immune system for anomaly detection, optimization, and learning.                    |
+| **Ant Colony Optimization (ACO)** 🐜   | Swarm optimization based on pheromone-guided foraging behavior of ants.                                                   |
+| **Biomolecular Computing** 🧬          | Computation using biological molecules such as DNA, RNA, and proteins.                                                    |
+| **L-Systems** 🌿                       | Formal rewriting systems used to model biological growth and fractal structures.                                          |
+| **Membrane Computing (P Systems)** 🔬  | Computational models inspired by the hierarchical membrane structure of living cells.                                     |
+
 ## Problems
 
 Here’s a list of simple problems that can be effectively solved using Genetic Algorithms (GAs):
